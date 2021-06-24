@@ -5,4 +5,4 @@ This is a e-commerce site which sells all the digital techs such as laptops, mob
 From this site I've scrapped the data of available Hp pavilion laptops their model no., price, discout price.</br>
 Then this scrapped data is then saved in a csv file so that this file can be further used for analysis purpose.
 
-Please check the Jupyter Notebook for better understanding.
+Please check the python file for better understanding.
